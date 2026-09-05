@@ -79,7 +79,7 @@ int main()
 
 	do
 	{ 
-		std::cout << "Nhap lua chon (1 - Print / 2 - Add): ";
+		std::cout << "Enter options (1 - Print / 2 - Add): ";
 		std::cin >> command;
 		 if (command == 2)
 			add_person(filename);
