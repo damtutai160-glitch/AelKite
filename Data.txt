@@ -1,8 +1,20 @@
-Vu Nguyen|18|1.65|60|Viet nam
-Ozawa|30|1.6|58|Nhat ban
-Obama|50|1.8|70|Hoa Ky
-Ronado|35|1.75|68|Bo Dao nha
-Doraemon|32|67|12|Phi lip pin
-Goku niggar|78|1.8|80.9|Japan
-qwe|232|12|34|eqw
-qweqwe|22|344|11|qsd
+21110015|Nguyen Van An|20|9.6
+22115433|Tran Thi Bich|21|7.8
+23528892|Le Hoang Cuong|19|3.2
+21520103|Pham Minh Dat|22|6.5
+20118935|Vo Thu Giang|23|8.7
+22521106|Dang Quoc Hai|21|2.8
+23114568|Bui Tuyet Hoa|20|9.1
+21520444|Ngo Quang Huy|22|7.1
+21127891|Hoang Van Khanh|22|9
+22123457|Phan Thi Linh|21|3.9
+20529989|Do Duc Manh|24|6
+21110111|Nguyen Thanh Nam|20|8.4
+22115222|Vu Thi Oanh|21|4.5
+23528333|Trinh Van Phong|19|2
+20118555|Dinh Thi Quynh|23|8.9
+22521666|Ly Van Son|21|5.8
+23114777|Mai Thi Trang|20|9.6
+21127888|Cao Van Uy|22|3.5
+22123999|Truong Thi Viet|21|6.9
+20529000|Duong Van Yen|24|8.1
